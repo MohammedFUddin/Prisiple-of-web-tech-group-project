@@ -25,3 +25,13 @@ body {
     font-family: 'Balthazar', serif;
 
 }
+
+/************ View all buttons ***************/
+.moreitems {
+    display: none;
+}
+
+.product.show-more .moreitems {
+    display: inline;
+
+}

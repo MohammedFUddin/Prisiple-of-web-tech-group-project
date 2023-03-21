@@ -45,3 +45,12 @@ h1 {
     background: var(--color);
     color: #181515;
 }
+
+/************ View all buttons ***************/
+.moreitems {
+    display: none;
+}
+
+.product.show-more .moreitems {
+    display: inline;
+}
